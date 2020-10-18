@@ -1,0 +1,17 @@
+h1{
+    color:red
+}
+#banner{
+    text-align: center;
+}
+.label {
+    color: white;
+    padding: 8px;
+    display: inline-block;
+    
+  }
+  .info {background-color: #2196F3;}
+  .placa{
+    text-align: center;
+    margin: 100px
+  }
